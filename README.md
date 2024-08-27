@@ -1,4 +1,5 @@
-# Econometrics
+# Econometrics_Teaching
+
 
 Neste repositório eu disponibilizo notas de aula com aplicações em python (eventualmente em R, e/ou STATA).
 
